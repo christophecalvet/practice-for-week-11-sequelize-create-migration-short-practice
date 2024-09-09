@@ -5,6 +5,7 @@ const app = express();
 // Import environment variables in order to connect to database - DO NOT MODIFY
 require('dotenv').config();
 
+
 // Express using json - DO NOT MODIFY
 app.use(express.json());
 
